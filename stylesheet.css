@@ -1,3 +1,22 @@
-h1{
-	color:red;
+body {
+  font-family: 'Open Sans';
+}
+
+div {
+  position: fixed;
+  right: 0;
+  top: 0;
+  padding: 12px;
+}
+
+#blue-btn {
+  background: blue;
+}
+
+#green-btn {
+  background: green;
+}
+
+#red-btn {
+  background: red;
 }
